@@ -1,0 +1,11 @@
+= Bike Manual
+
+:chapter: operation
+== Operation
+
+include::fragment-chain.adoc[]
+
+:chapter: maintenance
+== Maintenance
+
+include::fragment-chain.adoc[]
