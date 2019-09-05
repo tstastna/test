@@ -1,9 +1,0 @@
-<productname>{prod}</productname>
-<productnumber>{prod-ver}</productnumber>
-<title>Installation Guide</title>
-<subtitle>Installing {prod}</subtitle>
-<abstract>
-  <para>
-    Lorem ipsum.
-  </para>
-</abstract>
