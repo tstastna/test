@@ -1,6 +1,6 @@
 <productname>Git Cheat Sheet for New Writers</productname>
 <productnumber>pre-pre-beta 0.001</productnumber>
-<title>Git Cheat Sheet fro New Writers</title>
+<title>Git Cheat Sheet for New Writers</title>
 <subtitle>Introduction to Git</subtitle>
 <abstract>
   <para>
@@ -14,6 +14,6 @@
 		<email>otikhomi@redhat.com</email>
 	</author>
 	<org>
-		<orgname>Red Hat Documentation Team - the Newbie Squad</orgname>
+		<orgname>Red Hat Documentation Team - The Newbie Squad</orgname>
 	</org>
 </authorgroup>
