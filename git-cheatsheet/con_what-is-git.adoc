@@ -1,24 +1,29 @@
-//concept file - it will explain what git is, its key concepts and where it can be used;
-//target audience - junior technical writers with little to no technical background
-
 [id='con_what-is-git']
 
-= What is Git?
+== What is Git?
 
-Git is a version control system that tracks the history of changes as people and teams collaborate on projects together. Git is popular in both open source and commercial software development.
+Git is a version control system that tracks the history of changes as people and teams collaborate on projects together.
+Git is popular in both open source and commercial software development.
 
 Git allows:
+
 * To recover any version of a project at any time
-* To see who, when and why made changes
+* To see who, when, and why made changes
 * To work across different time zones
 * To work across different organizations and teams
 * To avoid unnecessary copies of a project, conflicting copies, and redundant tasks
 
-To use Git one needs to create an account on any Git repository hosting platform. Some popular ones include GitHub, Bitbucket, GitLab, and SourceForge. Find out more about link:https://git.wiki.kernel.org/index.php/GitHosting[Git repositories management systems].
+To collaborate with other people on a Git project, you need to host this project on one of Git repository hosting platforms. Some popular ones include GitHub,
+Bitbucket, GitLab, and SourceForge. Find out more
+about link:https://git.wiki.kernel.org/index.php/GitHosting[Git repositories management systems].
 
-== Key Concepts
-_Repository_ (or a Git project) lives on a Git hosting platform and contains the entire collection of files and folders associated with a project. It also keeps information about all changes made to this project.
+=== Key Concepts
+_Repository_ (or a Git project) lives on a Git hosting platform and contains the entire
+collection of files and folders associated with a project. It also keeps information about all changes made to this project.
 
-_Commit_ is a snapshot of changes in time, a point in the history of a repository. It has a name or id that identifies it uniquely and can have a message that describes the meaning of the changes.
+_Commit_ is a snapshot of changes in time, a point in the history of a repository.
+Every commit has a unique name or id and can have a message that describes the meaning of the changes.
 
-_Branch_ is a set of changes (commits) you make. By default Git has a master branch that represents the current state of Git project/repository. Creating your separate branch allows you to change things without affecting the main project and later merge them together.   
+_Branch_ is a set of changes (commits) you make. By default Git has a master branch
+that represents the current state of a Git project/repository. Creating your separate branch allows you
+to change things without affecting the main project. You can merge them together when your changes are complete.
