@@ -1,0 +1,8 @@
+//concept file - it will explain what git is, its key concepts and where it can be used;
+//target audience - junior technical writers with little to no technical background
+
+[id='con_what-is-git']
+
+Some info from this intro page
+https://guides.github.com/activities/hello-world/
+

@@ -1,0 +1,9 @@
+[id='ref_basic-git-commands']
+
+= Basic Git Commands
+
+
+
+To download a basic Git commands cheat sheet in the PDF format, visit this page:
+
+To search information about any Git command, use this website:

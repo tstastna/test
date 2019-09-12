@@ -1,0 +1,25 @@
+//main assembly file, needs links to all other modules
+[id='assembly_git-cheat-sheet']
+
+//will add later 
+//include:: attributes.adoc[]
+
+= Git Cheat Sheet
+
+This humble resource introduces basic Git concepts and helps to install Git on your computer.
+
+== Prerequisites
+* A working computer or laptor with any operating system.
+* An Internet connection.
+* A command line application, for example Terminal on Linux and macOS or Windows Terminal on Windows.
+
+include::con_what-is-git.adoc
+include::proc_installing-git.adoc
+include::ref_
+
+== Additional resources
+When Git is installed on your computer, you might want to start working with it. Here are some helpful resources:
+
+* Choose a Git repository management platform: https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab
+* GitHub guides: https://try.github.io
+* Choose and install a Git GUI client https://www.slant.co/topics/14662/~open-source-git-clients
