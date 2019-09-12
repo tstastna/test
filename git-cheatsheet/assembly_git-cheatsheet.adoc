@@ -1,4 +1,4 @@
-//main assembly file, needs links to all other modules
+
 [id='assembly_git-cheat-sheet']
 
 //will add later 
@@ -15,11 +15,11 @@ This humble resource introduces basic Git concepts and helps to install Git on y
 
 include::con_what-is-git.adoc
 include::proc_installing-git.adoc
-include::ref_
+include::ref_basic-git-commands.adoc
 
 == Additional resources
-When Git is installed on your computer, you might want to start working with it. Here are some helpful resources:
+When Git is installed on your computer, you might want to start working with it. These resources may help:
 
-* Choose a Git repository management platform: https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab
-* GitHub guides: https://try.github.io
-* Choose and install a Git GUI client https://www.slant.co/topics/14662/~open-source-git-clients
+* Choose a link:https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab[Git repository management platform] to use
+* Check out some link:https://try.github.io[GitHub guides and games]
+* Choose and install a link:https://www.slant.co/topics/14662/~open-source-git-clients[Git GUI client]

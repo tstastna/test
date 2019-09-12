@@ -1,1 +1,20 @@
-// [id] a tak dale
+[id='proc_installing Git']
+
+= Installing Git
+
+. Check if your computer has Git installed. Open a command line application and run the following command:
+
+----
+git --version
+----
+
+You should receive a message that tells you which Git version you have on your computer. 
+If you don’t receive a Git version message, it means that you need to download Git.
+
+. Download the Git installation program for your operating system: link:https://git-scm.com/download[].
+** Note that Linux users need to run the installation command as root (using sudo command)
+
+. Run the installation program.
+
+. Rerun the 'git --version' command to check that Git installation was successful.
+
