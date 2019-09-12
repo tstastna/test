@@ -1,0 +1,19 @@
+<productname>Git Cheat Sheet for New Writers</productname>
+<productnumber>pre-pre-alpha 0.001</productnumber>
+<title>Git Cheat Sheet for New Writers</title>
+<subtitle>Introduction to Git</subtitle>
+<abstract>
+  <para>
+    This page introduces beginner technical writers to the world of Git.
+  </para>
+</abstract>
+<authorgroup>
+	<author>
+		<firstname>Oss</firstname>
+		<surname>Tikhomirova</surname>
+		<email>otikhomi@redhat.com</email>
+	</author>
+	<org>
+		<orgname>Red Hat Documentation Team - The Newbie Squad</orgname>
+	</org>
+</authorgroup>
