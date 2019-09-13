@@ -1,6 +1,6 @@
-<productname>Git Cheat Sheet for New Writers</productname>
-<productnumber>pre-pre-alpha 0.001</productnumber>
-<title>Git Cheat Sheet for New Writers</title>
+<productname>{prod}</productname>
+<productnumber>{prod-ver}</productnumber>
+<title>{prod}</title>
 <subtitle>Introduction to Git</subtitle>
 <abstract>
   <para>

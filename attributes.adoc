@@ -1,0 +1,6 @@
+// just the product name and the latest Git version for now
+
+:prod: Git Cheat Sheet for New Writers
+:prod-short: Git Cheat Sheet
+:prod-ver: pre-pre-alpha 0.001
+
