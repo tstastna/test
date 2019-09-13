@@ -1,10 +1,9 @@
 
 [id='assembly_git-cheat-sheet']
 
-//will add later
-//include:: attributes.adoc[]
+include::attributes.adoc[]
 
-= Git Cheat Sheet
+= {prod-short}
 
 This humble resource introduces basic Git concepts and helps to install Git on your computer.
 
@@ -12,7 +11,6 @@ This humble resource introduces basic Git concepts and helps to install Git on y
 * A working computer or laptor with any operating system
 * An Internet connection
 * A command line application, for example *Terminal* on Linux and macOS or *Windows Terminal* on Windows
-// do we need to highlight apps names somehow?
 
 include::con_what-is-git.adoc
 include::proc_installing-git.adoc
