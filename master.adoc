@@ -1,16 +1,26 @@
-= Bike Manual
 
-:chapter: operation
-== Operation
+[id='assembly_git-cheat-sheet']
 
-include::fragment-chain.adoc[]
+//will add later
+//include:: attributes.adoc[]
 
-:chapter: maintenance
-== Maintenance
+= Git Cheat Sheet
 
-include::fragment-chain.adoc[]
+This humble resource introduces basic Git concepts and helps to install Git on your computer.
 
-:chapter: test
-== Test
+== Prerequisites
+* A working computer or laptor with any operating system
+* An Internet connection
+* A command line application, for example *Terminal* on Linux and macOS or *Windows Terminal* on Windows
+// do we need to highlight apps names somehow?
 
-include::fragment-chain.adoc[]
+include::con_what-is-git.adoc
+include::proc_installing-git.adoc
+include::ref_basic-git-commands.adoc
+
+== Additional resources
+After you installed Git on your computer, you might want to start working with it. These resources may help:
+
+* Choose a link:https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab[Git repository management platform]
+* Check out some link:https://try.github.io[GitHub guides and educational games]
+* Choose and install a link:https://www.slant.co/topics/14662/~open-source-git-clients[Git GUI client]

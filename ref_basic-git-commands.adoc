@@ -1,0 +1,30 @@
+[id='ref_basic-git-commands']
+
+== Basic Git Commands
+
+`git init` initializes a brand new Git repository and begins tracking.
+
+`git clone` creates a local copy of a project that already exists remotely. The clone includes all the project’s files, history, and branches.
+
+`git add` stages a change. This is the first step in the two-step change-tracking process. All staged changes will become a part of the next commit.
+
+`git commit` saves the snapshot of the changes that you staged before with `git add`. Command `git commit` completes the change-tracking process and saves all changes into project's history.
+
+`git status` shows the status of changes as untracked, modified, or staged.
+
+`git branch [branch-name]` creates a new branch.
+
+`git checkout [branch-name]` relocates you to a branch that becomes your working branch.
+
+`git merge` merges two distinct branches together.
+
+`git pull` updates the local line of development with updates from its remote counterpart.
+
+`git push` updates the remote repository with any commits made locally to a branch.
+
+
+=== Additional resources
+
+To download basic Git commands cheat sheets in the PDF format, visit link:https://github.github.com/training-kit/[this page].
+
+You can read about any Git command in the link:https://git-scm.com/docs[official Git reference guide].
