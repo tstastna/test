@@ -12,11 +12,13 @@ This humble resource introduces basic Git concepts and helps to install Git on y
 * An Internet connection
 * A command line application, for example *Terminal* on Linux and macOS or *Windows Terminal* on Windows
 
-include::con_what-is-git.adoc
-include::proc_installing-git.adoc
-include::ref_basic-git-commands.adoc
+include::con_what-is-git.adoc[leveloffset=+1]
 
-== Additional resources
+include::proc_installing-git.adoc[leveloffset=+1]
+
+include::ref_basic-git-commands.adoc[leveloffset=+1]
+
+== Additional Resources
 After you installed Git on your computer, you might want to start working with it. These resources may help:
 
 * Choose a link:https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab[Git repository management platform]

@@ -23,8 +23,8 @@
 `git push` updates the remote repository with any commits made locally to a branch.
 
 
-=== Additional resources
+=== More Git Commands
 
-To download basic Git commands cheat sheets in the PDF format, visit link:https://github.github.com/training-kit/[this page].
+To download Git commands cheat sheets in the PDF format, visit link:https://github.github.com/training-kit/[this page].
 
 You can read about any Git command in the link:https://git-scm.com/docs[official Git reference guide].
