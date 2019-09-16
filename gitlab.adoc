@@ -1,0 +1,7 @@
+[id='con_gitlab.adoc']
+
+== GitLab
+
+
+https://hackernoon.com/github-vs-gitlab-which-is-better-for-open-source-projects-31c45d464be0
+
