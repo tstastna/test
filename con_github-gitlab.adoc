@@ -1,0 +1,24 @@
+[id='con_github-gitlab.adoc']
+
+== GitHub and GitLab
+
+*GitHub* is the most popular Git hosting platform in the world. It launched in 2008, and as of May 2019, GitHub reports having over 37 million users and more than 100 million repositories.
+
+In 2018 GitHub has become a subsidiary of Microsoft. This acquisition has caused some users to explore alternatives to GitHub.
+
+*GitLab* launched in 2011 as an open source platform and it remains fully open source.
+
+*Comparing GitHub and GitLab* is like comparing two twins. Two platforms share many features, including:
+
+* Free and paid accounts
+* Public and private repoasitories on all accounts
+* Issue and bug tracking
+* Collaboration tools
+* Permission management
+* Project management
+
+The *major differences* are mostly regarding philosophy.
+
+GitHub emphasizes on high availability and performance of its infrastructure and delegates other sophisticated functionalities to third-party tools.
+
+Conversely, GitLab focuses on including all features on one well-tried and well-integrated platform; it provides everything for the complete DevOps lifecycle under a single roof.

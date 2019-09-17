@@ -18,9 +18,11 @@ include::proc_installing-git.adoc[leveloffset=+1]
 
 include::ref_basic-git-commands.adoc[leveloffset=+1]
 
+include::assembly_git-hosting-services.adoc[leveloffset=+1]
+
 == Additional Resources
 After you installed Git on your computer, you might want to start working with it. These resources may help:
 
-* Choose a link:https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab[Git repository management platform]
 * Check out some link:https://try.github.io[GitHub guides and educational games]
+* Study link:https://docs.gitlab.com/ee/gitlab-basics/[GitLab basics guides]
 * Choose and install a link:https://www.slant.co/topics/14662/~open-source-git-clients[Git GUI client]
