@@ -2,18 +2,12 @@
 
 == Git Hosting Services
 
-Why do we need them?
+Git and Git hosting services, for example GitLab, are two different things.
 
 *Git* is a version control system, a piece of software. It can work with local and remote repositories, but it cannot store them. We keep local files on a computer, but our remote repositories need to live on Git hosting services, which are cloud platforms accessible by anyone.
 
-*GitHub* and *GitLab* are common examples of Git repositories management platforms.
+*GitHub* and *GitLab* are common examples of Git repositories management platforms, but many others exist.
 
 include::con_github-gitlab.adoc[leveloffset=+1]
 
-=== Other Git hosting services
-
-* link:http://comparegithosting.com/[Comparison of free and paid Git hosting]
-
-* link:https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities[Git services comparison tables on Wikipedia]
-
-* link:https://opensource.com/article/18/8/github-alternatives[Six places to host your git repository]
+include::con_other-git-hosting-services.adoc[leveloffset=+1]

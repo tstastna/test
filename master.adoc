@@ -8,7 +8,7 @@ include::attributes.adoc[]
 This humble resource introduces basic Git concepts and helps to install Git on your computer.
 
 == Prerequisites
-* A working computer or laptor with any operating system
+* A working computer or laptop with any operating system
 * An Internet connection
 * A command line application, for example *Terminal* on Linux and macOS or *Windows Terminal* on Windows
 
@@ -21,7 +21,7 @@ include::ref_basic-git-commands.adoc[leveloffset=+1]
 include::assembly_git-hosting-services.adoc[leveloffset=+1]
 
 == Additional Resources
-After you installed Git on your computer, you might want to start working with it. These resources may help:
+After you installed Git on your computer, you might want to start working with it. Find out more here:
 
 * Check out some link:https://try.github.io[GitHub guides and educational games]
 * Study link:https://docs.gitlab.com/ee/gitlab-basics/[GitLab basics guides]

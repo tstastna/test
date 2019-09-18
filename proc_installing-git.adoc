@@ -19,4 +19,4 @@ If you don’t receive a Git version message, it means that you need to download
 
 . Rerun the `git --version` command to check that Git installation is successful.
 
-For more detailed information on installing Git check the link:https://git-scm.com/book/en/v2/Getting-Started-Installing-Git[Getting Started with Git] page.
+More details on installing Git: link:https://git-scm.com/book/en/v2/Getting-Started-Installing-Git[Getting Started with Git].

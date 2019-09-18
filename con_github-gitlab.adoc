@@ -11,7 +11,7 @@ In 2018 GitHub has become a subsidiary of Microsoft. This acquisition has caused
 *Comparing GitHub and GitLab* is like comparing two twins. Two platforms share many features, including:
 
 * Free and paid accounts
-* Public and private repoasitories on all accounts
+* Public and private repositories on all accounts
 * Issue and bug tracking
 * Collaboration tools
 * Permission management
@@ -21,4 +21,4 @@ The *major differences* are mostly regarding philosophy.
 
 GitHub emphasizes on high availability and performance of its infrastructure and delegates other sophisticated functionalities to third-party tools.
 
-Conversely, GitLab focuses on including all features on one well-tried and well-integrated platform; it provides everything for the complete DevOps lifecycle under a single roof.
+Conversely, GitLab focuses on including all features on one well-tested and well-integrated platform; it provides everything for the complete DevOps life cycle under one roof.
