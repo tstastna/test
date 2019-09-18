@@ -6,7 +6,17 @@
 
 In 2018 GitHub has become a subsidiary of Microsoft. This acquisition has caused some users to explore alternatives to GitHub.
 
-*GitLab* launched in 2011 as an open source platform and it remains fully open source.
+
+image::images/github-interface.png[GitHub repository interface,80%]
+
+
+
+*GitLab* launched in 2011 as an open source platform and it remains fully open source. Users can import their GitHub repositories into GitLab and vice versa.
+
+
+image::images/gitlab-interface.png[GitLab repository interface,81%]
+
+
 
 *Comparing GitHub and GitLab* is like comparing two twins. Two platforms share many features, including:
 
