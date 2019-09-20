@@ -23,6 +23,6 @@ include::assembly_git-hosting-services.adoc[leveloffset=+1]
 == Additional Resources
 After you installed Git on your computer, you might want to start working with it. Find out more here:
 
-* Check out some link:https://try.github.io[GitHub guides and educational games]
-* Study link:https://docs.gitlab.com/ee/gitlab-basics/[GitLab basics guides]
+* Check out some link:https://try.github.io[{github-title} guides and educational games]
+* Study link:https://docs.gitlab.com/ee/gitlab-basics/[{gitlab-title} basics guides]
 * Choose and install a link:https://www.slant.co/topics/14662/~open-source-git-clients[Git GUI client]

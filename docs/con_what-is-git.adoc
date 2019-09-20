@@ -13,8 +13,8 @@ Git allows:
 * To work across different organizations and teams
 * To avoid unnecessary copies of a project, conflicting copies, and redundant tasks
 
-To collaborate with other people on a Git project, you need to host this project on one of Git repository hosting platforms. Some popular ones include GitHub,
-Bitbucket, GitLab, and SourceForge. Find out more
+To collaborate with other people on a Git project, you need to host this project on one of Git repository hosting platforms. Some popular ones include {github-title},
+Bitbucket, {gitlab-title}, and SourceForge. Find out more
 about link:https://git.wiki.kernel.org/index.php/GitHosting[Git repositories management systems].
 
 === Key Concepts
