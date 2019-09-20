@@ -1,11 +1,7 @@
-Let us keep the initial message provided by the Author to commemorate the Author's effort:
 
-> .
-> # test
-> sdasdsdasd
-> asdasada
+> _**No, Watson, this was not done by accident, but by design.**_ 
+> <cite>[Sherlock Holmes]</cite>
 
-However what this repository really is...
 
 # The Ultimate Newbie Git Mock Repository
 
