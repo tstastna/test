@@ -1,24 +1,24 @@
 [id='con_github-gitlab.adoc']
 
-== GitHub and GitLab
+== {github-title} and {gitlab-title}
 
-*GitHub* is the most popular Git hosting platform in the world. It launched in 2008, and as of May 2019, GitHub reports having over 37 million users and more than 100 million repositories.
+*{gh-link}* is the most popular Git hosting platform in the world. It launched in 2008, and as of May 2019, {github-title} reports having over 37 million users and more than 100 million repositories.
 
-In 2018 GitHub has become a subsidiary of Microsoft. This acquisition has caused some users to explore alternatives to GitHub.
-
-
-image::images/github-interface.png[GitHub repository interface,80%]
+In 2018 {github-title} has become a subsidiary of Microsoft. This acquisition has caused some users to explore alternatives to GitHub.
 
 
-
-*GitLab* launched in 2011 as an open source platform and it remains fully open source. Users can import their GitHub repositories into GitLab and vice versa.
-
-
-image::images/gitlab-interface.png[GitLab repository interface,81%]
+image::images/github-interface.png[{github-title} repository interface,80%]
 
 
 
-*Comparing GitHub and GitLab* is like comparing two twins. Two platforms share many features, including:
+*{gl-link}* launched in 2011 as an open source platform and it remains fully open source. Users can import their {github-title} repositories into {gitlab-title} and vice versa.
+
+
+image::images/gitlab-interface.png[{gitlab-title} repository interface,81%]
+
+
+
+*Comparing {github-title} and {gitlab-title}* is like comparing two twins. Two platforms share many features, including:
 
 * Free and paid accounts
 * Public and private repositories on all accounts
@@ -29,6 +29,6 @@ image::images/gitlab-interface.png[GitLab repository interface,81%]
 
 The *major differences* are mostly regarding philosophy.
 
-GitHub emphasizes on high availability and performance of its infrastructure and delegates other sophisticated functionalities to third-party tools.
+{github-title} emphasizes on high availability and performance of its infrastructure and delegates other sophisticated functionalities to third-party tools.
 
-Conversely, GitLab focuses on including all features on one well-tested and well-integrated platform; it provides everything for the complete DevOps life cycle under one roof.
+Conversely, {gitlab-title} focuses on including all features on one well-tested and well-integrated platform; it provides everything for the complete DevOps life cycle under one roof.
