@@ -1,6 +1,6 @@
 [id='con_github-gitlab.adoc']
 
-== {github-title} and {gitlab-title}
+= {github-title} and {gitlab-title}
 
 *{gh-link}* is the most popular Git hosting platform in the world. It launched in 2008, and as of May 2019, {github-title} reports having over 37 million users and more than 100 million repositories.
 

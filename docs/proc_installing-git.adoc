@@ -1,6 +1,6 @@
 [id='proc_installing Git']
 
-== Installing Git
+= Installing Git
 
 . Check if your computer has Git installed. Open a command line application and run the following command:
 

@@ -1,5 +1,5 @@
 
-> _**No, Watson, this was not done by accident, but by design.**_ 
+> _**No, Watson, this was not done by accident, but by design.**_
 > <cite>[Sherlock Holmes]</cite>
 
 
@@ -13,4 +13,4 @@ By resolving issues provided by the Sensei newbies are expected to:
 * practice basic Git workflow
 * learn how to collaborate on GitHub
 
-Good luck to us all!
+*Update.* The mock Git Cheat Sheet is basically ready and is available at: https://github.com/boczkowska/test

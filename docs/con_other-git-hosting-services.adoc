@@ -1,6 +1,6 @@
 [id='con_other-git-hosting-services']
 
-== Other Git Hosting Services
+= Other Git Hosting Services
 
 Users can store their Git projects on the following platforms:
 
