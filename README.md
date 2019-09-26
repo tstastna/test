@@ -13,4 +13,4 @@ By resolving issues provided by the Sensei newbies are expected to:
 * practice basic Git workflow
 * learn how to collaborate on GitHub
 
-*Update.* The mock Git Cheat Sheet is basically ready and is available at: https://github.com/boczkowska/test
+*Update.* The mock Git Cheat Sheet is basically ready and is available at: https://boczkowska.github.io/test/
