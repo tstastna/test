@@ -1,6 +1,6 @@
 [id='ref_basic-git-commands']
 
-== Basic Git Commands
+= Basic Git Commands
 
 `git init` initializes a brand new Git repository and begins tracking.
 
@@ -23,7 +23,7 @@
 `git push` updates the remote repository with any commits made locally to a branch.
 
 
-=== More Git Commands
+== More Git Commands
 
 To download Git commands cheat sheets in the PDF format, visit link:https://github.github.com/training-kit/[this page].
 

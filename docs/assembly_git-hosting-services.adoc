@@ -1,6 +1,6 @@
 [id='assembly_git-hosting-services']
 
-== Git Hosting Services
+= Git Hosting Services
 
 Git and Git hosting services, for example {gitlab-title}, are two different things.
 

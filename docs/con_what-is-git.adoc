@@ -1,6 +1,6 @@
 [id='con_what-is-git']
 
-== What is Git?
+= What is Git?
 
 Git is a version control system that tracks the history of changes as people and teams collaborate on projects together.
 Git is popular in both open source and commercial software development.
@@ -17,7 +17,7 @@ To collaborate with other people on a Git project, you need to host this project
 Bitbucket, {gitlab-title}, and SourceForge. Find out more
 about link:https://git.wiki.kernel.org/index.php/GitHosting[Git repositories management systems].
 
-=== Key Concepts
+== Key Concepts
 _Repository_ (or a Git project) lives on a Git hosting platform and contains the entire
 collection of files and folders associated with a project. It also keeps information about all changes made to this project.
 

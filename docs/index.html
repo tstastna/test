@@ -425,9 +425,33 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 .show-for-print{display:inherit!important}}
 </style>
 </head>
-<body id="assembly_git-cheat-sheet" class="article">
+<body id="assembly_git-cheat-sheet" class="article toc2 toc-left">
 <div id="header">
 <h1>Git Cheat Sheet</h1>
+<div id="toc" class="toc2">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_prerequisites">Prerequisites</a></li>
+<li><a href="#con_what-is-git">What is Git?</a>
+<ul class="sectlevel2">
+<li><a href="#_key_concepts">Key Concepts</a></li>
+</ul>
+</li>
+<li><a href="#proc_installing Git">Installing Git</a></li>
+<li><a href="#ref_basic-git-commands">Basic Git Commands</a>
+<ul class="sectlevel2">
+<li><a href="#_more_git_commands">More Git Commands</a></li>
+</ul>
+</li>
+<li><a href="#assembly_git-hosting-services">Git Hosting Services</a>
+<ul class="sectlevel2">
+<li><a href="#con_github-gitlab.adoc">GitHub and GitLab</a></li>
+<li><a href="#con_other-git-hosting-services">Other Git Hosting Services</a></li>
+</ul>
+</li>
+<li><a href="#_additional_resources">Additional Resources</a></li>
+</ul>
+</div>
 </div>
 <div id="content">
 <div id="preamble">
@@ -453,8 +477,11 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </li>
 </ul>
 </div>
-<div class="sect2">
-<h3 id="con_what-is-git">What is Git?</h3>
+</div>
+</div>
+<div class="sect1">
+<h2 id="con_what-is-git">What is Git?</h2>
+<div class="sectionbody">
 <div class="paragraph">
 <p>Git is a version control system that tracks the history of changes as people and teams collaborate on projects together.
 Git is popular in both open source and commercial software development.</p>
@@ -486,8 +513,8 @@ Git is popular in both open source and commercial software development.</p>
 Bitbucket, GitLab, and SourceForge. Find out more
 about <a href="https://git.wiki.kernel.org/index.php/GitHosting">Git repositories management systems</a>.</p>
 </div>
-<div class="sect3">
-<h4 id="_key_concepts">Key Concepts</h4>
+<div class="sect2">
+<h3 id="_key_concepts">Key Concepts</h3>
 <div class="paragraph">
 <p><em>Repository</em> (or a Git project) lives on a Git hosting platform and contains the entire
 collection of files and folders associated with a project. It also keeps information about all changes made to this project.</p>
@@ -503,8 +530,10 @@ to change things without affecting the main project. You can merge them together
 </div>
 </div>
 </div>
-<div class="sect2">
-<h3 id="proc_installing Git">Installing Git</h3>
+</div>
+<div class="sect1">
+<h2 id="proc_installing Git">Installing Git</h2>
+<div class="sectionbody">
 <div class="olist arabic">
 <ol class="arabic">
 <li>
@@ -545,8 +574,10 @@ If you don’t receive a Git version message, it means that you need to download
 <p>More details on installing Git: <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">Getting Started with Git</a>.</p>
 </div>
 </div>
-<div class="sect2">
-<h3 id="ref_basic-git-commands">Basic Git Commands</h3>
+</div>
+<div class="sect1">
+<h2 id="ref_basic-git-commands">Basic Git Commands</h2>
+<div class="sectionbody">
 <div class="paragraph">
 <p><code>git init</code> initializes a brand new Git repository and begins tracking.</p>
 </div>
@@ -577,8 +608,8 @@ If you don’t receive a Git version message, it means that you need to download
 <div class="paragraph">
 <p><code>git push</code> updates the remote repository with any commits made locally to a branch.</p>
 </div>
-<div class="sect3">
-<h4 id="_more_git_commands">More Git Commands</h4>
+<div class="sect2">
+<h3 id="_more_git_commands">More Git Commands</h3>
 <div class="paragraph">
 <p>To download Git commands cheat sheets in the PDF format, visit <a href="https://github.github.com/training-kit/">this page</a>.</p>
 </div>
@@ -587,8 +618,10 @@ If you don’t receive a Git version message, it means that you need to download
 </div>
 </div>
 </div>
-<div class="sect2">
-<h3 id="assembly_git-hosting-services">Git Hosting Services</h3>
+</div>
+<div class="sect1">
+<h2 id="assembly_git-hosting-services">Git Hosting Services</h2>
+<div class="sectionbody">
 <div class="paragraph">
 <p>Git and Git hosting services, for example GitLab, are two different things.</p>
 </div>
@@ -598,8 +631,8 @@ If you don’t receive a Git version message, it means that you need to download
 <div class="paragraph">
 <p><strong>GitHub</strong> and <strong>GitLab</strong> are common examples of Git repositories management platforms, but many others exist.</p>
 </div>
-<div class="sect3">
-<h4 id="con_github-gitlab.adoc">GitHub and GitLab</h4>
+<div class="sect2">
+<h3 id="con_github-gitlab.adoc">GitHub and GitLab</h3>
 <div class="paragraph">
 <p><strong><a href="https://GitHub.com/">GitHub</a></strong> is the most popular Git hosting platform in the world. It launched in 2008, and as of May 2019, GitHub reports having over 37 million users and more than 100 million repositories.</p>
 </div>
@@ -654,8 +687,8 @@ If you don’t receive a Git version message, it means that you need to download
 <p>Conversely, GitLab focuses on including all features on one well-tested and well-integrated platform; it provides everything for the complete DevOps life cycle under one roof.</p>
 </div>
 </div>
-<div class="sect3">
-<h4 id="con_other-git-hosting-services">Other Git Hosting Services</h4>
+<div class="sect2">
+<h3 id="con_other-git-hosting-services">Other Git Hosting Services</h3>
 <div class="paragraph">
 <p>Users can store their Git projects on the following platforms:</p>
 </div>
@@ -687,7 +720,6 @@ If you don’t receive a Git version message, it means that you need to download
 </div>
 </div>
 </div>
-</div>
 <div class="sect1">
 <h2 id="_additional_resources">Additional Resources</h2>
 <div class="sectionbody">
@@ -712,7 +744,7 @@ If you don’t receive a Git version message, it means that you need to download
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2019-09-20 16:04:21 CEST
+Last updated 2019-09-25 19:42:27 CEST
 </div>
 </div>
 </body>
