@@ -1,4 +1,4 @@
-What does this PR do? Descrobe briefly.
+What does this PR do? Describe briefly.
 
 
 What issue does this PR fix?
