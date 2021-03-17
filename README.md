@@ -3,6 +3,7 @@
 The purpose of this project is for me to learn about Git by resolving issues.
 
 My goals are:
+
     *familiarize myself with the GitHub interface,
     *practice basic Git workflow - how to make changes and push them to the repository,
     *learn how to collaborate on GitHub - how to do peer reviews,
