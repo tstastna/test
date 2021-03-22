@@ -9,4 +9,6 @@ Our goals are:
 * to learn how to collaborate on GitHub - how to do peer reviews,
 * to test some advanced Git workflows such as merge conflicts, rebasing (regular and interactive), branching models, cherry-picking, and others, in a safe and controlled environment.
 
-Commit 2
+This has been edited by Yana
+Bla
+Blablabla
