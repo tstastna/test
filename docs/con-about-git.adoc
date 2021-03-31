@@ -1,0 +1,27 @@
+////
+Base the file name and the ID on the module title. For example:
+* file name: con-my-concept-module-a.adoc
+* ID: [id="con-my-concept-module-a_{context}"]
+* Title: = My concept module A
+////
+
+////
+The ID is an anchor that links to the module. Avoid changing it after the module has been published to ensure existing links are not broken.
+////
+
+[id="con-about-git_{context}"]
+
+////
+The `context` attribute enables module reuse. Every module ID includes {context}, which ensures that the module has a unique ID so you can include it multiple times in the same guide.
+////
+
+= About Git
+////
+In the title of concept modules, include nouns or noun phrases that are used in the body text. This helps readers and search engines find the information quickly. Do not start the title of concept modules with a verb. See also _Wording of headings_ in _The IBM Style Guide_.
+////
+
+[role="_abstract"]
+Git is a free version control system. Git tracks changes in a set of project files, and simplifies the collaboration of multiple contributors on one project.
+
+Each project tracked with Git has a remote repository and one or many local repositories. The remote repository is shared for all contributors. Each contributor has their own local repository. In the local repository of a contributor, they can make changes, such as creating new files, editing existing files, and deleting files. If they want to share their changes with the other contributors, they submit the changes from the local repository to the remote repository. When the changes are present in the remote repository any contributor can apply the changes to their local repository.
+
