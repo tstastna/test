@@ -21,7 +21,6 @@ In the title of concept modules, include nouns or noun phrases that are used in 
 ////
 
 [role="_abstract"]
-Git is a free version control system. Git tracks changes in a set of project files, and simplifies the collaboration of multiple contributors on one project.
+Git is a free version control system. Git tracks changes in a set of project files and simplifies the collaboration of multiple contributors on one project.
 
 Each project tracked with Git has a remote repository and one or many local repositories. The remote repository is shared for all contributors. Each contributor has their own local repository. In the local repository of a contributor, they can make changes, such as creating new files, editing existing files, and deleting files. If they want to share their changes with the other contributors, they submit the changes from the local repository to the remote repository. When the changes are present in the remote repository any contributor can apply the changes to their local repository.
-
